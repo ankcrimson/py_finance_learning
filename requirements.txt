@@ -1,0 +1,7 @@
+bs4
+requests
+pandas
+numpy
+pandas_datareader
+tqdm
+matplotlib
